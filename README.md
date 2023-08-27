@@ -30,7 +30,7 @@ RESTful é a aplicação dos padrões REST que são:
 - GET: Receber dados de um Resource
 - POST: Enviar dados para serem processador por um Resource
 - PUT: Atualizar dados de um Resource
-- DELETE: Deeletar um Resource
+- DELETE: Deletar um Resource
 
 ## Status das Respostas
 
